@@ -12,7 +12,7 @@ toc:
 
 ## Editor's note
 
-This version of *Narrative of the Life of Frederick Douglass* was adapted from *The Project Gutenberg EBook of The Narrative of the Life of Frederick Douglass, by Frederick Douglass*. The [Guttenberg file](http://www.gutenberg.org/) does not tell us which witness was used in making their digital edition. The edition below is only a slightly modified version of the Guttenberg text, and therefore should not be taken too seriously as an edition. I use the text mostly to show a few affordances of using Ed for long form narrative. This page, for example, showcases a different sidebar than the rest of our sample site, with a table of content of the novel generated out of metadata in the source file. In addition, reading morsels of the novel on your different devices can give you a sense of the experience of reading prose using Ed, and shows you an example of the optional sidebar with a table of contents. A few other features of this page are described in more detail in the [Documentation]({{ site.baseurl }}/documentation/).
+I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/) and [Harry Potter and the Sacred Text](https://www.harrypottersacredtext.com/). Both of these podcasts celebrate reading and sharing what we gather from reading. If you have not had a chance to check out either of those podcasts, I would highly recommend them. This entry in the sketchbook is a part of a series I have decided to call The Library Card. In this series, I am going to follow the leads of both Overdue and Harry Potter and the Sacred Text, sharing my thoughts and playing around with the ideas of the books that I am reading.
 
 ---
 
