@@ -20,12 +20,12 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 
 <p class="centered larger">The<br>Power<br></p>
 <p class="centered medium">A Novel</p>
+
+<br>
+<p class="centered larger">Naomi Alderman</p>
 <br>
 
-<p class="centered larger">Naomi Alderman</p>
-
 <p class="centered">Black Bay Books</p>
-
 <p class="centered small">Little, Brown and Company,<br>New York Boston London<br>2016,<br></p>
 
 ---
