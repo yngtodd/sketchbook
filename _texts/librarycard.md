@@ -1,5 +1,6 @@
 ---
-layout: narrative
+layout: default
+title: "Ed."
 ---
 
 ---
