@@ -8,7 +8,7 @@ will be covered here. I can guarantee that much of this writing will be rough.
 Who knows how many incomplete sentences, run ons, and grammatical errors will 
 show up. But that is part of the fun. Let's run with this idea and see what happens.
 
-### Writer's note
+## Writer's note
 
 Who knows why I might choose to keep my sketchbook open for all of the world to 
 see. Maybe it's because it is safe to say that almost no one will find this. There is 
