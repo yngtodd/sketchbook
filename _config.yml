@@ -6,6 +6,7 @@ tagline:             'Scribbles and sketches.'
 description:         'Sketchbook'
 url:                 'http://yngtodd.github.io'
 baseurl:             '/sketchbook'
+contenturl:          '/_contents'
 
 # About/contact
 author:
@@ -23,13 +24,6 @@ permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled:     true
-  collections: false
 
 # Collections for texts
 collections:
@@ -52,6 +46,13 @@ kramdown:
 exclude:
   - optional
   - vendor
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: false
 
 # Theme
 theme: "ed."
