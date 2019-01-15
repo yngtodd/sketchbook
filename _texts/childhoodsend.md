@@ -28,7 +28,7 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 <br>
 
 <p class="centered">Del Rey</p>
-<p class="centered small">1953,<br></p>
+<p class="centered small">1953<br></p>
 
 ---
 
