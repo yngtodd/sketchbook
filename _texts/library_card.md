@@ -17,6 +17,6 @@ doing right now, and check them out.
 
 ## Table of Contents
 
-- [Childhood's End]({{site.contenturl}}/childhoodsend.md)
+- [Childhood's End]({{site.url}}/contents/childhoodsend.md)
 
 ---

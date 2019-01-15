@@ -1,4 +1,8 @@
 source "https://rubygems.org"
 gemspec
 
-gem "html-proofer"
+
+group :jekyll_plugins do
+    gem "html-proofer"
+    gem "jekyll-relative-links"
+end
