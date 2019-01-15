@@ -18,11 +18,11 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 
 <a id="title-page" />
 
-<p class="centered xx-large">The<br>Power<br></p>
-<p class="centered large">A Novel</p>
+<p class="centered larger">The<br>Power<br></p>
+<p class="centered medium">A Novel</p>
 <br>
 
-<p class="centered xx-large">Naomi Alderman</p>
+<p class="centered larger">Naomi Alderman</p>
 
 <p class="centered">Black Bay Books</p>
 
