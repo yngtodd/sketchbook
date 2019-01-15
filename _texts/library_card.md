@@ -17,6 +17,6 @@ doing right now, and check them out.
 
 ## Table of Contents
 
-- [Childhood's End]({{ site.baseurl }}/contents/chidhoodsend.md)
+- [Childhood's End](https://raw.githubusercontent.com/yngtodd/sketchbook/master/contents/childhoodsend.md)
 
 ---
