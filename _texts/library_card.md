@@ -32,8 +32,8 @@ This version of *Narrative of the Life of Frederick Douglass* was adapted from *
 
 <a id="title-page" />
 
-<p class="centered large">The<br>Power<br></p>
-<p class="centered">A Novel</p>
+<p class="centered larger">The<br>Power<br></p>
+<p class="centered large">A Novel</p>
 <br>
 
 <p class="centered larger">Naomi Alderman</p>
