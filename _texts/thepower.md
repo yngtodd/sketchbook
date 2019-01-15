@@ -6,7 +6,7 @@ editor: M. Todd Young
 publication-date: 2016
 toc:
 - Title Page
-- Chapeter I
+- Chapter I
 ---
 
 ---
@@ -38,3 +38,5 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 ## Chapter I
 
 ### Thirty Second Recap
+
+---
