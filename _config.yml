@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'Personal writing.'
-description:         'Ed.: personal writing'
+title:               Sketchbook.
+tagline:             'Scribbles and sketches.'
+description:         'Sketchbook'
 url:                 'http://yngtodd.github.io'
-baseurl:             '/ed'
+baseurl:             '/sketchbook'
 
 # About/contact
 author:
