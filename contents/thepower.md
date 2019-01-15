@@ -35,6 +35,6 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 
 ## Chapter I
 
-### Thirty Second Recap
+### Thirty Second Recap - Blind Contour
 
 ---
