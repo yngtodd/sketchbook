@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Library Card"
 ---
 
 ### Library Card
