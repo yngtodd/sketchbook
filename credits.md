@@ -7,7 +7,7 @@ I would like to thank those writers near and dear to me, who have enstilled in m
 Thank you for sharing a love of stories and communication. Thank you for the laughter over coffee and the late nights reading and dreaming. Thank you for encouraging my voice. 
 
 Thank you to all those work on the [Ed.](https://github.com/minicomp/ed) project, for sharing your work so that 
-people like have the tools to share our writing. I will keep the links of those people who worked on Ed. below. 
+people like me have the tools to share our writing. I will keep the links of those people who worked on Ed. below. 
 
 ### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
 
