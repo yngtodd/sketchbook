@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: narrative
 title: "Preface"
 ---
+
+## Preface
 
 This is a section of the sketchbook where I write about the books that I am reading. 
 The pieces here will be a collection of blind contour recaps, notes, references, and 
