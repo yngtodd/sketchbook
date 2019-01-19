@@ -70,4 +70,18 @@ is structured. This is the mythos of this world.
 
 ### Thirty Second Recap - Blind Contour
 
+Roxy is home with her mom when three men barge in. She does not know them, but they mean trouble. They didn't 
+realize that she would be there and quickly stuff her in the cupboard beneath the stairs. She can hear her mom,
+panicked, pleading with the men. Roxy, having been locked in the cupboard by her parents before, knows that she
+can get out. Panickiing herself, she works at the lock with her fingernails. When she frees herself, she launches 
+toward her mom and the men. One grabs her. She has been in fights before, but not like this. She can feel something 
+within her building, a sense of power. She focuses it, and 'cups the lighting in her hand'. She grabs the man back, 
+and she can smeel the scent of rain, and of burnt hair. The man's hand falls deaad by his side, but Roxy and her mom 
+are not out of trouble yet. One of the men draws a knife and Roxy wills the power to return, but she it does not 
+return in time. The next thing she feels is a swift blow to the nape of her neck.
+
+Roxy wakes up dazed. The carpet is sodden with a dark red, and her hands are sticky. On the couch, her mom is unmoving with a handwritten note laid on her chest. It has a primrose on it.
+
+Roxy is one of the first.
+
 ---
