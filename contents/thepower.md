@@ -54,6 +54,8 @@ through the book, where the shoe is on the other foot.
 
 ## Forward
 
+### Blind Contour Recap
+
 Neil Armon opens his historical novel, The Power, with an except from the Book of Eve. In this text the
 'shape of power' is always the same: the branching of a tree, the strike of lightning, the path of rivers
 flowing to the ocean, the central nervous system, and the branching of social networks and communities. 
