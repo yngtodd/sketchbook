@@ -17,7 +17,7 @@ doing right now, and check them out.
 
 ## Table of Contents
 
-- [Preface]({{ site.baseurl }}{% link contents/preface.md %})
+- [Preface]({{ site.baseurl }}{% link contents/preface.html %})
 - [Childhood's End]({{ site.baseurl }}{% link contents/childhoodsend.md %})
 - [The Power]({{ site.baseurl }}{% link contents/thepower.md %})
 
