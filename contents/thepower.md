@@ -6,7 +6,7 @@ editor: M. Todd Young
 publication-date: 2016
 toc:
 - Title Page
-- Neil's Letter
+- Letter to the Editor
 - Chapter I
 ---
 
