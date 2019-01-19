@@ -7,6 +7,7 @@ publication-date: 2016
 toc:
 - Title Page
 - Letter to the Editor
+- Forward
 - Chapter I
 ---
 
@@ -48,6 +49,18 @@ that it will be a welcome distraction from her own book. She is intrigued by thi
 history in a "world run by men". She imagines that it would be a kinder, gentler, and -dare she say- a 
 sexier world than the one in which they live. Looks like there are going to be plenty of cringe moments 
 through the book, where the shoe is on the other foot.
+
+---
+
+## Forward
+
+Neil Armon opens his historical novel, The Power, with an except from the Book of Eve. In this text the
+'shape of power' is always the same: the branching of a tree, the strike of lightning, the path of rivers
+flowing to the ocean, the central nervous system, and the branching of social networks and communities. 
+This power is mirrored in all aspects of our lives. 
+
+It looks lke this illustration of power lays the foundation for how natural the power dynamics of this world
+is structured. This is the mythos of this world.
 
 ---
 
