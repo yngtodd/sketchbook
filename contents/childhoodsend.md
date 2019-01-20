@@ -15,6 +15,10 @@ toc:
 
 I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/) and [Harry Potter and the Sacred Text](https://www.harrypottersacredtext.com/). Both of these podcasts celebrate reading and sharing what we gather from reading. If you have not had a chance to check out either of those podcasts, I would highly recommend them. This entry in the sketchbook is a part of a series I have decided to call The Library Card. In this series, I am going to follow the leads of both Overdue and Harry Potter and the Sacred Text, sharing my thoughts while playing around with the ideas of the books that I am reading.
 
+I believe I have the most recent printing of Arthur C. Clarkes, Childhood's End. While the original version places 
+itself in the context of 1953, where men had not yet traveled outside of Earth's atmosphere, this copy reimagines the setting to be where men have traveled to the moon and are now preparing to go to Mars. At the beginning of the text there is a note: "Note: Apart from the new Prologue, o alterations have been make to the text. From Chapter Two onwards, Childhood's End remains exactly as in 1953." I am not sure if the 'new Prologue' is chapter one. It must be.
+If not, I will not make any claim as to the originality of the beginning of this book. Whatever.
+
 ---
 
 <a id="title-page" />
@@ -34,6 +38,19 @@ I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/
 
 ## Chapter I
 
-### Thirty Second Recap - Blind Contour
+### Blind Contour Recap
+
+'Helena Lyakhov always went through the same ritual. She was not the only cosmonaut who did so,
+though few ever talked about it.' We are introduced to Helena, a Russian cosmonaut who is preparing
+for a new, internationally coordinated mission to Mars. She is reflective, thinking of an old Cold War
+cosmonaut, Yuri, as a busload of tourists show up. She prepares herself for the tourists' cameras when 
+she notices that they are not pointed towards her, but up to the sky. Turning, she catches just a glimpse 
+of the 'gigantic shadow sliding behind the moon.' 
+
+The mission commander, Mohan Kaleer, saw the ship from the edge of a volcanic crater used to prepare the 
+astronauts for Olympus Mons. At once he realized that the history of humanity was at an inflection point. 
+It was like watching an ice shelf break from a glacier and fall to the sea. The ship was beautiful. It far
+outstretched any accomplishment that human kind had ever achieved. And yet, he had no regrets in his life's 
+work. Still, all this time he had spent to reach the stars, and now the stars have come to him.
 
 ---
