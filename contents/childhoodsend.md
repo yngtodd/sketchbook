@@ -72,4 +72,12 @@ control of the Overlords.
 
 Rikki agrees to make mention the objections of the Freedom League to the Overlords' ambassador, Karellen. When Rikki
 and Karellen meet in the Overlords' ship, their conversation is genial. Rikki asks if the Overlords will show 
-themselves to the world, to alleviate some of the tension. 
+themselves to the world, to alleviate some of the tension. Karellen notes that, all things considered, humanity has
+been trusting of the Overlords, but that there still seems to be resistance that stems from the world's religions. "Not all religions can be right" says Karellen, and he seems hesitant to broach that subject much further. Karellen
+promises Rikki that he will talk with his superiors to see if there might be a way to alleviate some of the fears that groups like the Freedom League harbor. 
+
+### Notes
+
+It is interesting that the Overlords do not deal with individual nations. Instead, they work only directly with 
+the United Nations. They seem want the betterment of humanity, even if they do not reveal their motivations. I 
+like the idea that the Overlords seem not to have a preference for a particular type of governance, 
