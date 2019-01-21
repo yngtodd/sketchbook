@@ -54,3 +54,22 @@ outstretched any accomplishment that human kind had ever achieved. And yet, he h
 work. Still, all this time he had spent to reach the stars, and now the stars have come to him.
 
 ---
+
+## Chapter II
+
+### Blind Contour Recap
+
+Chapter two opens in the Secretary-General of the United Nations' office some years after the arrival of 
+the ships. Rikki Stormgren is looking down on the streets below, anticipating the arrival of Alexander Wainwright, a
+figurehead for an international group that resists the intervention of earth's new Overlords. It is a meeting
+he is not looking forward to. For the past few years, Rikki has stood as Earth's ambassador to the Overlords. 
+Only he has ever stepped foot on one of their ships, and even he has never seen an Overlord face-to-face. The 
+Overlords have never once been hostile, despite at least one nation attacking an Overlord ship with a nuclear missle.
+On the contrary, the Overlords have only been helpful for humanity. There is no longer famine or poverty, and the
+living wage for all people has been steadily rising since the Overlords' arrival. This does not alleviate the fear
+of group's like Wainwright's Freedom League, who feel that humanity's God given Liberty is stripped away by the 
+control of the Overlords. 
+
+Rikki agrees to make mention the objections of the Freedom League to the Overlords' ambassador, Karellen. When Rikki
+and Karellen meet in the Overlords' ship, their conversation is genial. Rikki asks if the Overlords will show 
+themselves to the world, to alleviate some of the tension. 
