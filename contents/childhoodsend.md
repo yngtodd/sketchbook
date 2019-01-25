@@ -7,6 +7,7 @@ publication-date: 1953
 toc:
 - Title Page
 - Chapter I
+- Chapter II
 ---
 
 ---
@@ -91,3 +92,6 @@ that they do not show themselves in public, and it isn't clear just how many Ove
 > existing forms of society, and so had not bothered with minor political reforms. But this, like all 
 > other speculations concerning the Overlords, was pur guesswork. No one knew toward what future they were 
 > shepherding mankind.
+
+---
+
