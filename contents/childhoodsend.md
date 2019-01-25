@@ -79,5 +79,7 @@ promises Rikki that he will talk with his superiors to see if there might be a w
 ### Notes
 
 It is interesting that the Overlords do not deal with individual nations. Instead, they work only directly with 
-the United Nations. They seem want the betterment of humanity, even if they do not reveal their motivations. I 
-like the idea that the Overlords seem not to have a preference for a particular type of governance, 
+the United Nations. I like the idea that the Overlords seem not to have a preference for a particular type of governance. This seems to imply that they recognize there are many ways that people can live, and that peace/prosperity can coexist with diversity. 
+
+The Overlords seem want the betterment of humanity, even if they do not reveal their motivations. It is interesting 
+that they do not show themselves in public, and it isn't clear just how many Overlords are in the ships.
