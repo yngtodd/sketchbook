@@ -83,3 +83,11 @@ the United Nations. I like the idea that the Overlords seem not to have a prefer
 
 The Overlords seem want the betterment of humanity, even if they do not reveal their motivations. It is interesting 
 that they do not show themselves in public, and it isn't clear just how many Overlords are in the ships.
+
+> The Overlords seemed largely indifferent to forms of government, provided that they were not oppresive or corrupt.
+> Earth still possessed democracies, monarchies, benevolent dictatorships, communism, and capitalism. This was a
+> source of greate surprise to many simple souls who were quite convinced that theirs was the only possible way 
+> of life. Others believed that Karellen was merely waiting to introduce a system which would sweep away all 
+> existing forms of society, and so had not bothered with minor political reforms. But this, like all 
+> other speculations concerning the Overlords, was pur guesswork. No one knew toward what future they were 
+> shepherding mankind.
