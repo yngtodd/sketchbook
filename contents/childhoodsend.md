@@ -84,7 +84,7 @@ promises Rikki that he will talk with his superiors to see if there might be a w
 > source of greate surprise to many simple souls who were quite convinced that theirs was the only possible way 
 > of life. Others believed that Karellen was merely waiting to introduce a system which would sweep away all 
 > existing forms of society, and so had not bothered with minor political reforms. But this, like all 
-> other speculations concerning the Overlords, was pur guesswork. No one knew toward what future they were 
+> other speculations concerning the Overlords, was pure guesswork. No one knew toward what future they were 
 > shepherding mankind.
 
 It is interesting that the Overlords do not deal with individual nations. Instead, they work only directly with 
