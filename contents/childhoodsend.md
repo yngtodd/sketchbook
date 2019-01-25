@@ -95,3 +95,23 @@ that they do not show themselves in public, and it isn't clear just how many Ove
 
 ---
 
+## Chapter III
+
+We get a bit clearer picture of the Secretary General, Stormgren. He is just months from retiring, and though he
+has risen to a place no other politician has, he lives in a modest flat. Most of his subordinates live in more luxurious homes, but that does not matter to Rikki. His experience has taught him to value other things.
+
+The chapter opens with Stormgren having difficulty gettig to sleep. His mind is running 'like a machine with no 
+govenor'. He wonders, staring at New York from his balcony as the rest of the city sleeps, what it will be like once he retires. His wife passed away years before, and their kids have established their own families. Rikki falls asleep
+sometime after that.
+
+When Rikki wakes, he finds himself dazed and in a strange room. The room is dark and the walls feel like hewn stone. 
+When the door to the room opens, he finds himself greeted by a large man, Joe, who beckons him. Rikki had been brought to some safe place, away from the view of Karellen and the Overlords. Joe tells Rikki that he is a part of 
+a group seeking liberty for man kind. They are of the sort that might be associated with the Freedon League, but Wainwright, the leader of that group, would have nothing to do with kidnapping. 
+
+Rikki is not treated harshly, but rather as a guest in what seems like an abandoned mine turned safe house for Joe's organization. Joe tells Rikki that he will be staying in the mine with them for the next few days. After hanging out with Joe's lackeys playing poker for a few days, the leaders of Joe's organization aparently deem it safe to come meet with the Secretary General.
+
+Six men, leaders of the organization, come to meet Stormgren. They are not interested in standard ransom schemes. Rather, they would like information from the Secretary General. What are his meetings with karellen like? What are the details of his meetings with the Overlords? What do the Overlords look like? Stormgren greets these questions with both amusement and care. He does not believe that anything that he could say would hurt Karellen and the Overlords, but he is also not interested in so easily abbetting his kidnappers. But he does wish to know what the Overlords look like himself. He has freely admitted that human curiosity has gotten the better of him. And so, knowing that any information he gives to these kidnappers will do no harm, he speaks frankly with them. Maybe they can glean some information that has alluded Stormgren. Maybe he too could find some answers. 
+
+Then, suddenly, Stormgren's kidnappers are suspending in animation and a silvery orb shows itself to the Secretary General. It is a robot of sorts, controlled by karellen, here to free him from his captors. Karellen, through the orb, explains that Rikki's kidnappers are somewhat of a state of paralysis, temprorarily living their lives thousands of times slower than normal. The robot then leads Rikki out of the mine, explaining that the Overlords have been keeping tabs on his location for quite some time. Though Karellen gives credit to Rikki's captors for a clever kidnapping scheme, it seems they had no hope of fooling the Overlords. And now that the organizers of this rebellion group have shown themselves, Karellen can keep tabs on them. Karellen assures Rikki that the men will go about their lives as they otherwise would and that Karellen mereley wishes to keep an amused eye on them. 
+
+The chapter finishes with the Secretary General's interest hightening. The conversation with his kidnappers seemed to embolden his curiosity. What if he could devise a way to see what the Overlords really look like?
