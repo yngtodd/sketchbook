@@ -15,10 +15,6 @@ toc:
 
 I have recently come to love two podcasts: [Overdue](https://overduepodcast.com/) and [Harry Potter and the Sacred Text](https://www.harrypottersacredtext.com/). Both of these podcasts celebrate reading and sharing what we gather from reading. If you have not had a chance to check out either of those podcasts, I would highly recommend them. This entry in the sketchbook is a part of a series I have decided to call The Library Card. In this series, I am going to follow the leads of both Overdue and Harry Potter and the Sacred Text, sharing my thoughts while playing around with the ideas of the books that I am reading.
 
-I believe I have the most recent printing of Arthur C. Clarkes, Childhood's End. While the original version places 
-itself in the context of 1953, where men had not yet traveled outside of Earth's atmosphere, this copy reimagines the setting to be where men have traveled to the moon and are now preparing to go to Mars. At the beginning of the text there is a note: "Note: Apart from the new Prologue, o alterations have been make to the text. From Chapter Two onwards, Childhood's End remains exactly as in 1953." I am not sure if the 'new Prologue' is chapter one. It must be.
-If not, I will not make any claim as to the originality of the beginning of this book. Whatever.
-
 ---
 
 <a id="title-page" />
